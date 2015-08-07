@@ -1,0 +1,25 @@
+nav.navbar {
+
+}
+
+.container {
+}
+
+ul.nav-items {
+
+}
+
+li.home {
+}
+
+a.home {
+    font-size:20px;
+    float:left;
+    padding:10px;
+}
+
+a.item {
+    font-size:20px;
+    float:right;
+    padding:10px;
+}
