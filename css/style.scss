@@ -10,7 +10,7 @@
 $twitter:        #6dabda;
 $linkedin:       #2b77b1;
 $github:         #f6c2a4;
-$rss:            #eea33a;
+$email:          #FFCC00;
 
 $darker:         #21211E;
 $dark:           #2D2D29;
@@ -165,6 +165,9 @@ ul {
 
     .fa-file-text-o:hover {
         color: $green;
+    }
+    .fa-envelope-o:hover {
+        color: $email;
     }
 }
 
