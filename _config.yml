@@ -4,7 +4,7 @@ email: zujko@csh.rit.edu
 description: ""
 baseurl: ""
 url: "localhost:4000"
-title_description: "Developer &bull; Computer Science student  &bull; <i class=\"fa fa-android fa-lg\"></i> = <i class=\"fa fa-heart fa-lg\"></i>"
+title_description: "Developer &bull; Computer Science Student @ RIT"
 title_image: "https://secure.gravatar.com/avatar/a4055ddbdcb86ec61d69c6c915c404cb?&size=200&default=mm&rating=pg"
 disqus_account: peterzujko
 github_repository: https://github.com/zujko/zujko.github.io
