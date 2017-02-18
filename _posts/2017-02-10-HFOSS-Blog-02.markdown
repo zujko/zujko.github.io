@@ -1,0 +1,23 @@
+---
+title: "HFOSS Blog 2"
+layout: post
+date: 2017-02-10 15:35
+headerImage: false
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+## Licensing
+In this post I will talk about three common open source licenses and what exactly they entail.
+
+### MIT License
+The MIT license allows anyone to use your code so long as they provide credit back to you and do not hold you liable for any damages your software may cause. 
+
+### Apache License 2.0
+The Apache license is very similar to the MIT license. The difference being that the Apache license grants patent rights from contributors to users.
+
+### GNU GPLv3
+GPLv3 is a famous copyleft license. The GNU GPLv3 license requires users who use or distribute a derivative must make that source available with the same terms. GPLv3 also grants patent rights from contributors to users. 
+

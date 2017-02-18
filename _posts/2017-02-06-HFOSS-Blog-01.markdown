@@ -1,0 +1,20 @@
+---
+title: "HFOSS Blog 1"
+layout: post
+date: 2017-02-06 16:00
+headerImage: true
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+I'll be using this first blog post to briefly talk about my blogging set up and my process for writing a blog post.
+
+## Jekyll 
+My site is created using Jekyll which is an open source static site generator. The source of which can be found [here](https://github.com/jekyll/jekyll). I've modified a theme I found, it's called [indigo](https://github.com/sergiokopplin/indigo). 
+
+## Writing posts
+To write a post I simply write a markdown file which contains the content of my post. My site and all the markdown files are open source and can be found [here](https://github.com/zujko/zujko.github.io).
