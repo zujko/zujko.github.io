@@ -1,0 +1,28 @@
+---
+title: "HFOSS Blog 3"
+layout: post
+date: 2017-02-18 17:00
+headerImage: false
+tag: 
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## The GNU Project
+The GNU Project was started by Richard Stallman in 1983. His main goal was to give people control and freedom when they used computer systems by developing software with the following two core rights.
+- Freedom to run the software.
+- Freedom to share/copy/distribute the software.
+
+Most of what the GNU Project does is writing free software, but it is also a social, ethical, and political initiative. The GNU Project has produced software licenses and Richard Stallman has published a fair number of writings.
+
+## Philosophy of the GNU Project
+The GNU Project considers free software to have the following four "essential freedoms".
+
+> (0) to run the program 
+> (1) to study and change the program in source code form 
+> (2) to redistribute exact copies 
+> (3) to distribute modified versions
+
+[Source](https://www.gnu.org/philosophy/philosophy.html)
