@@ -1,0 +1,26 @@
+---
+title: "HFOSS Blog 4"
+layout: post
+date: 2017-02-26 18:00
+headerImage: true
+image: http://d1ce5ur0bponn9.cloudfront.net/images/tech-blog/go-gopher-mascot-gotools.jpg
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+In this blog post I will talk about the brief history of the Go programming language.
+
+## History
+The Go programming language was developed at Google by engineers Ken Thompson, Rob Pike, and Robert Griesemer. The wanted to develop a new language the solved some common issues people had with other languages while maintaining the things people liked. Their core ideas for the language included the following.
+
+> * be statically typed, scalable to large systems 
+> * be productive and readable, without too many mandatory keywords and repetition
+> * not require integrated development environments, but support them well
+> * support networking and multiprocessing
+
+Go version 1.0 was released in 2012.
+
+Go is open source and can be found [here](https://github.com/golang/go)
