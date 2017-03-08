@@ -1,0 +1,53 @@
+---
+title: "HFOSS Quiz 1"
+layout: post
+date: 2017-03-08 09:05
+headerImage: false
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+1. Please expand each of the following acronyms
+  * IRC = Internet Chat Relay
+  * FLOSS = Free/Libre and Open Source Software
+  * OLPC = One Laptop per Child
+  * FSF = Free Software Foundation
+  * PR = Pull Request
+  * GNU = GNU's Not Unix
+
+2. What is the name of the version control system we use in this course? 
+  * Git
+ Give the name for another version control system. 
+  * SVN
+
+3. What is the short, two-letter name for the OLPC computers used in the final project for this class?
+  * XO
+
+4. Please give the one-word name for the interface used in the OLPC computers?
+  * Sugar
+
+5. We refer to sites that host source code as "forges". What is the name of the primary forge used in this course?
+  * GitHub
+
+6. We discussed several concepts involving rights, restrictions, and licensing. Match the capital letter of the term on the left with lower-case letter of the most appropriate description on the right.
+  * A) trademark: b) lasts as long as used & defended
+  * B) copyright: c) life of the author plus 70 years
+  * C) patent: a) 20 year term
+  * D) trademark:  f) protects consumers from confusing one product with another 
+  * E) copyright: d) arises as soon as a work takes tangible form
+  * F) patent: f) protects consumers from confusing one product with another
+7. We've discussed "the four R's" as a shorthand for the freedoms attached to software for it to be considered "free" or "open source". List or describe each. (eg, if you can remember the "r" word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts). Various "r" words are roughly synonymous for some of the freedoms, but we're counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, "remix" does not count as describing any of them.
+  * Read
+  * Repair
+  * Redistribute
+  * Run
+
+## Bonus
+1. True or False: You cannot sell GPL'd software
+  * False
+2. You can fork a GPL licensed Project and release it under an MIT license?
+  * False
+3. You can fork a MIT licensed Project and release it under an GPL license?
+  * True. The MIT license allows sublicensing 
