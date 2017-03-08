@@ -37,7 +37,7 @@ author: peterzujko
   * C) patent: a) 20 year term
   * D) trademark:  f) protects consumers from confusing one product with another 
   * E) copyright: d) arises as soon as a work takes tangible form
-  * F) patent: f) protects consumers from confusing one product with another
+  * F) patent: e) precedence is given to the first to file an application
 7. We've discussed "the four R's" as a shorthand for the freedoms attached to software for it to be considered "free" or "open source". List or describe each. (eg, if you can remember the "r" word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts). Various "r" words are roughly synonymous for some of the freedoms, but we're counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, "remix" does not count as describing any of them.
   * Read
   * Repair
