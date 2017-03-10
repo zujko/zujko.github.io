@@ -1,0 +1,20 @@
+---
+title: "HFOSS Blog 5"
+layout: post
+date: 2017-03-05
+headerImage: true
+image: http://fabacademy.org/archives/2014/tutorials/images/mecurial_logo.png
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## Mercurial
+
+Mercurial is a distributed source control management tool. Unlike other version control systems, Mercurial is distributed, and gives each developer a local copy of the entire development history. This means that it works independent of network access or a main server.
+
+Mercurial was written in Python with some parts written in C. It is licensed under the GNU General Public License Version 2.
+
+It is open source. The code can be found [here](https://www.mercurial-scm.org/repo/hg-website).
