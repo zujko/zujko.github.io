@@ -1,0 +1,21 @@
+---
+title: "HFOSS Blog 6"
+layout: post
+date: 2017-03-19 18:00
+headerImage: true
+image: http://www.msolution.io/wp-content/uploads/2015/12/influxdb.png
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## InfluxDB
+InfluxDB is an open-source time series database. It was developed by InfluxData, written in Go, and is optimized for fast, high-availability storage and retrieval of time series data. It provides a SQL-like language with built in time-centric functions for querying data composed of measurements, series, and points. 
+
+## Uses
+InfluxDB is usually used for operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics. 
+
+
+The project can be found [here](https://github.com/influxdata/influxdb)
