@@ -1,0 +1,27 @@
+---
+title: "HFOSS Blog 7"
+layout: post
+date: 2017-03-26
+headerImage: true
+image: http://snap-telemetry.io/assets/img/snappy-frontpage-banner.png
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## Snap
+Snap is an open source telemetry framework. This framework makes is easy to collect, process, and publish telemetry data on a large scale.
+
+There are multiple parts to the Snap framework. 
+1. There is a daemon, ```snapteld``` and CLI, ```snaptel```
+2. Plugins
+3. Tasks to gather and publish metrics
+
+## Plugin Architecture
+One key feature of Snap is that it has a simple modular design. There are three types of plugins, collectors, processors, and publishers. A user can mix and match functionality as needed. 
+
+Snap is not an analytics platform, it is to allow plugins to feed into various analytics platforms.
+
+Snap is open source and the code can be found [here](https://github.com/intelsdi-x/snap).
