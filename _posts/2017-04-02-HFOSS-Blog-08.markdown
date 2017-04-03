@@ -1,0 +1,24 @@
+---
+title: "HFOSS Blog 8"
+layout: post
+date: 2017-04-02
+headerImage: true
+image: https://upload.wikimedia.org/wikipedia/commons/a/a6/Freebeer_english3.2.svg
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## Free Beer!
+Free Beer is a beer recipe developed by students at the IT University in Copenhagen to illustrate how the FOSSS movement can be applied to things outside computers and code. The recipe is published under the Creative Commons CC BY-SA license. 
+
+## History
+![mascot](https://upload.wikimedia.org/wikipedia/commons/8/80/FREE_BEER_version_3.2%2C_St_Austell_3.jpg)
+In December of 2004 a group of students at the IT University of Copenhagen brewed a 100-liter batch of a dark heavy beer in the school's cafeteria. It was labeled as Vores øl (Danish for "our beer"). Soon after they created a website to promote the recipe and label they designed. 
+
+The first recipe had many technical criticisms, but it was continuously updated and fixed to improve its quality. The current version is version 4.1 and is a significant improvement over the previous versions. 
+
+## Impact 
+Since its inception, the project has been reported on by a wide range of media outlets. The "Free Beer" project has also been received well by the FOSS movement and people such as Richard Stallman and Lawrence Lessig. The beer has been sold at many technology conferences and meetings, such as Isummit.
