@@ -1,0 +1,21 @@
+---
+title: "HFOSS Blog 10"
+layout: post
+date: 2017-04-16
+headerImage: false
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## Pygame
+Since we're developing our project with pygame, I figured I would dig deeper into the history of pygame and what makes up pygame.
+Pygame is a free and open source library for making multimedia applications, it is built on top of the SDL library. 
+
+As an open source project, pygame has a mailing list (pygame-users@seul.org), irc channel (freenode #pygame), and the source is available [here](https://github.com/pygame/pygame/). Pygame also follows the Python Community [Code of Conduct](https://www.python.org/psf/codeofconduct/). It's super awesome seeing pygame have so many support avenues for potential contributors. 
+## SDL
+Since pygame is built on top of SDL I wanted to look deeper into SDL. SDL is a cross-platform library which provides a hardware abstraction layer to computer hardware components. SDL was created by Sam Lantinga in early 1998 while working for Loki Software.
+
+The current version of SDL uses the [zlib License](http://www.zlib.net/zlib_license.html). The SDL source code can be found [here](https://hg.libsdl.org/SDL).
