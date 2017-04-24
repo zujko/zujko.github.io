@@ -1,0 +1,20 @@
+---
+title: "HFOSS Blog 11"
+layout: post 
+date: 2017-04-23
+headerImage: false
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+# OSMI
+I'm on a Twitter a lot and I follow a good amount of developers in the Go/container space. One person retweeted something about this organization, Open Sourcing Mental Illness (OSMI for short)i and I think it's definitely something worth talking about. 
+
+OSMI tries to fight the stigma that people have around mental illness by encouraging developers to speak openly about their experiences and struggles. The organization also collects and publishes surveys about mental health in the workplace. Finally, the organization also publishes resources for companies to better support their employees. 
+
+I think organizations like OSMI and others such as [prompt](http://mhprompt.org/), are critical. I believe mental health is often not talked about and sadly still has a stigma to it. I think if people talked more openly about mental illness than maybe Aaron Swartz for example, would still be alive today.
+
+Link to [OSMI](https://osmihelp.org/)
