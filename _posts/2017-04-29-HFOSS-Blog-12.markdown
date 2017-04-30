@@ -1,0 +1,26 @@
+---
+title: "HFOSS Blog 12"
+layout: post
+date: 2017-04-29
+headerImage: false
+tag:
+- HFOSS
+- RIT
+blog: true
+author: peterzujko
+---
+
+## GRPC
+As I've mentioned before, I follow a lot of people in the Go community, so naturally I come across new and awesome open source projects regularly. Recently, there has been a lot of buzz about gRPC. I had no idea what gRPC was, so I looked into it and have a better understanding of it.
+
+So what exactly is gRPC? Well, gRPC is an open source RPC framework developed by Google.
+
+Google lines out their principles for developing this framework [here](http://www.grpc.io/blog/principles).
+
+gRPC has been used internally at Google and it was open sourced in 2015. 
+
+The source code for gRPC can be found [here](https://github.com/grpc/grpc)
+
+## RPC
+You might be asking what RPC is. RPC stands for Remote Procedure Calls. What this really means is that if you're using a RPC, the procedure you're calling in your code is executed in a different address space (usually a different machine on the same network).
+So essentially this allows you to write procedures that are run remotely without you really having to explicitly code the details for the remote interaction.
